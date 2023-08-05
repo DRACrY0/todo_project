@@ -1,2 +1,8 @@
 # todo_project
-Todo application made to learn nodejs, expressjs and reactjs.
+## Todo application made while learning nodejs, expressjs and reactjs.
+
+### Tasks
+- [ ] Learning Basic JavaScript Done.
+- [ ] Learning Basic Nodejs Done.
+- [ ] Learning Basic Expressjs Done.
+- [ ] Learning Basic Reactjs Done.
